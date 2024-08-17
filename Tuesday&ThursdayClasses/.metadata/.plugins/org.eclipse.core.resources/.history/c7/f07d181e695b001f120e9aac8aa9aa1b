@@ -1,0 +1,21 @@
+package demo;
+
+import java.util.ArrayList;
+
+public class Student {
+	
+	public static void main(String[] args) {
+		
+		ArrayList<String> a2 = new ArrayList<String>();
+		
+		a2.add("Java");
+		a2.add("SQL");
+		a2.add("Selenium");
+		a2.add("Cypress");
+		System.out.println(a2);
+	
+		
+		
+	}
+	
+}

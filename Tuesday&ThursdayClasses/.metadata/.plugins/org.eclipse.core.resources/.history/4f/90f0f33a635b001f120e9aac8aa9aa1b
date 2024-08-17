@@ -1,0 +1,14 @@
+package demo;
+
+import java.util.ArrayList;
+
+public class Student {
+	
+	public static void main(String[] args) {
+		int a = 990;
+		Integer i = Integer.valueOf(a);
+		
+		System.out.println(i);
+	}
+	
+}

@@ -1,0 +1,52 @@
+!SESSION 2024-08-01 19:38:51.068 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring -data /Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-01 19:38:52.295
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-01 19:38:53.056
+!MESSAGE Logback config file: /Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-13 20:30:05.366 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring -data /Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-13 20:30:06.856
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-13 20:30:07.567
+!MESSAGE Logback config file: /Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-15 19:37:45.337 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring -data /Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-15 19:37:46.800
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-15 19:37:47.512
+!MESSAGE Logback config file: /Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-17 13:33:52.031 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/olivermarroquin/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-17 13:33:53.344
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-17 13:33:58.252
+!MESSAGE Logback config file: /Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml

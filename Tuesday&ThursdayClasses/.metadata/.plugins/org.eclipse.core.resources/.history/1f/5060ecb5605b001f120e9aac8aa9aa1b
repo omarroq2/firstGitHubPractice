@@ -1,0 +1,15 @@
+package demo;
+
+import java.util.ArrayList;
+
+public class Student {
+	
+	public static void main(String[] args) {
+		ArrayList<Integer> a1 = new ArrayList<Integer>();
+		
+		a1.add("Java");
+		a1.add(200);
+		a1.add('A');
+	}
+	
+}

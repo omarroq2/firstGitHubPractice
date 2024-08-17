@@ -1,0 +1,28 @@
+package demo;
+
+import java.util.ArrayList;
+
+public class Student {
+	
+	public static void main(String[] args) {
+		int a = 990;
+		
+		//below is 
+		Integer i = Integer.valueOf(a);
+		
+		System.out.println(i);
+		
+		Integer c = new Integer(100);
+		int b = c.intValue();
+		System.out.println(b);
+		
+		String st = "123";
+		String st1 = "123.33";
+		
+		int num1 = Integer.parseInt(st);
+		double num = Double.parseDouble(st1);
+		ArrayList<Integer> ls = new ArrayList<Integer>();
+		
+	}
+	
+}

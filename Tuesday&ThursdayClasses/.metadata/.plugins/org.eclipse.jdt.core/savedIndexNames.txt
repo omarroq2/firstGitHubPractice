@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/olivermarroquin/eclipse-workspace/Tuesday&ThursdayClasses/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2384958339.index
+960763464.index

@@ -1,0 +1,28 @@
+package demo;
+
+import java.nio.file.attribute.AclEntry;
+
+public class Student {
+	
+	public static void div() {
+		int a =10; int = b, c;
+		try {
+			System.out.println("starting of try");"
+				
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+	
+	
+	
+	
+	
+	public void view() {
+		System.out.println("Student Details are: ");
+		System.out.println("Name: John");
+		System.out.println("Email: John1234@abc.com");
+		System.out.println("Major: CS");
+	}
+
+}

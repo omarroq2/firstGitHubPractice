@@ -1,0 +1,35 @@
+package demo;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.ListIterator;
+
+public class Student {
+	
+	public static void main(String[] args) {
+		
+		ArrayList<String> a2 = new ArrayList<String>();
+		
+		a2.add("Java");
+		a2.add("SQL");
+		a2.add("Selenium");
+		a2.add("Cypress");
+		System.out.println(a2);
+	
+//		ListIterator ls = a2.listIterator();
+//		System.out.println("Objects forward direction");
+//		while(ls.hasNext()) {
+//			System.out.println(ls.next());
+//		}
+//		
+//		System.out.println("Objects backward direction");
+//		while(ls.hasPrevious()) {
+//			System.out.println(ls.previous());
+//		}
+		
+		Collections.sort(a2);
+		System.out.println(a2);
+		
+	}
+	
+}
